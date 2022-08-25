@@ -1,11 +1,8 @@
 # Graymium
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Dark gray theme for comfort design coding. Inspired by [New Moon Theme](https://github.com/taniarascia/new-moon) and [Logic Pro](https://www.apple.com/ua/logic-pro/) little bit. If you work with html, css/sass, javascript — welcome.
 
 
-## For more information
+## License
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+This project is open source and available under the [MIT License](LICENSE).
