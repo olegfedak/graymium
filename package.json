@@ -3,11 +3,12 @@
   "displayName": "Graymium Theme",
   "description": "Dark gray theme for comfort design coding. Inspired by New Moon Theme.",
   "version": "0.0.1",
-  "publisher": "Fedak Design",
+  "publisher": "FedakDesign",
   "repository": {
     "type": "git",
     "url": "https://github.com/olegfedak/graymium"
   },
+  "license": "MIT",
   "keywords": [
     "theme",
     "dark theme",
