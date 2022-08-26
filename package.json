@@ -1,20 +1,20 @@
 {
-  "name": "graymium-vscode-theme",
+  "name": "graymium-vscode",
   "displayName": "Graymium Theme",
   "description": "Dark gray theme for comfort design coding. Inspired by New Moon Theme.",
   "version": "0.0.1",
-  "publisher": "FedakDesign",
+  "icon": "graymium-icon.png",
+  "publisher": "olegfedak",
   "repository": {
     "type": "git",
     "url": "https://github.com/olegfedak/graymium"
   },
   "license": "MIT",
   "keywords": [
-    "theme",
+    "theme", "vscode",
     "dark theme",
     "gray theme",
     "grey theme",
-    "dark gray theme",
     "graymium",
     "coding design"
 
