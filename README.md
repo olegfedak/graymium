@@ -4,4 +4,4 @@ Dark gray theme for comfort design coding. Inspired by [New Moon Theme](https://
 
 ## License
 
-[MIT](LICENSE).
+[MIT](LICENSE)
