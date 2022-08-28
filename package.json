@@ -11,13 +11,13 @@
   },
   "license": "MIT",
   "keywords": [
-    "theme", "vscode",
+    "theme",
+    "vscode",
     "dark theme",
     "gray theme",
     "grey theme",
     "graymium",
     "coding design"
-
   ],
   "engines": {
     "vscode": "*"
