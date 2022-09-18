@@ -3,27 +3,33 @@
   "displayName": "Graymium Theme",
   "description": "Dark gray theme for comfort design coding. Inspired by New Moon Theme.",
   "version": "0.0.4",
-  "icon": "images/graymium-vector.png",
   "publisher": "olegfedak",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/olegfedak/graymium"
-  },
   "license": "MIT",
-  "keywords": [
-    "theme",
-    "vscode",
-    "dark theme",
-    "gray theme",
-    "grey theme",
-    "graymium",
-    "coding design"
-  ],
   "engines": {
     "vscode": "*"
   },
   "categories": [
     "Themes"
+  ],
+  "homepage": "https://github.com/olegfedak/graymium",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/olegfedak/graymium"
+  },
+  "icon": "images/graymium-vector.png",
+  "galleryBanner": {
+    "color": "#282828",
+    "theme": "dark"
+  },
+  "keywords": [
+    "theme",
+    "vscode",
+    "dark",
+    "gray",
+    "grey",
+    "graymium",
+    "coding",
+    "design"
   ],
   "contributes": {
     "themes": [
