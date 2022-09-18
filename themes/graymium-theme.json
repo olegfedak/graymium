@@ -116,7 +116,7 @@
       }
     },
     {
-      "scope": "support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, punctuation.definition.tag, meta.tag.structure.head.start.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, entity.name.type.ts, support.variable.dom.ts, entity.name.function.graphql, invalid.illegal.unrecognized-tag.html",
+      "scope": "entity.other.attribute-name, support.class, entity.name.type.class, meta.entity.new.name.expr, entity.name.tag.structure.any.html, punctuation.definition.tag, meta.tag.structure.head.start.html, meta.tag.structure.any.html, punctuation.definition.tag.html, meta.tag.sgml.doctype.html, keyword.other.special-method, entity.name.type, entity.name.tag, support.variable.dom.js, meta.tag.structure.any.html, markup.bold, punctuation.definition.bold, entity.name.type.ts, support.variable.dom.ts, entity.name.function.graphql, invalid.illegal.unrecognized-tag.html, punctuation.separator.key-value.html",
       "settings": {
         "foreground": "#6AB0F3"
       }
@@ -152,7 +152,7 @@
       }
     },
     {
-      "scope": "support.class.njk, support.function, constant, keyword.control.njk, entity.name.tag.njk, support.variable.njk, punctuation.definition.tag.begin.njk, punctuation.definition.tag.end.njk, entity.other.njk.delimiter.tag, entity.other.njk.delimiter.variable, keyword.operator.njk, entity.other.attribute-name.id, markup.italic, punctuation.definition.italic, markup.changed, markup.changed.git_gutter, support.constant.property-value, keyword.control.flow.js, storage.type.function.js, punctuation.tag.njk",
+      "scope": "punctuation.output.njk, support.function, constant, keyword.control.njk, entity.name.tag.njk, support.variable.njk, punctuation.definition.tag.begin.njk, punctuation.definition.tag.end.njk, entity.other.njk.delimiter.tag, entity.other.njk.delimiter.variable, keyword.operator.njk, entity.other.attribute-name.id, markup.italic, punctuation.definition.italic, markup.changed, markup.changed.git_gutter, support.constant.property-value, keyword.control.flow.js, storage.type.function.js, punctuation.tag.njk",
       "settings": {
         "foreground": "#E1A6F2"
       }
@@ -218,7 +218,7 @@
       }
     },
     {
-      "scope": "variable.other.njk, variable.other.njk.attribute, variable.parameter.njk, entity.other.attribute-name, meta.object-literal.key.js",
+      "scope": "support.class.njk, variable.other.njk, variable.parameter.njk, variable.other.njk.attribute, meta.object-literal.key.js",
       "settings": {
         "foreground": "#b3b9c5"
       }
