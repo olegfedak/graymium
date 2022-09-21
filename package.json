@@ -2,7 +2,7 @@
   "name": "graymium-vscode",
   "displayName": "Graymium Theme",
   "description": "Dark gray theme for comfort design coding. Inspired by New Moon Theme.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "olegfedak",
   "license": "MIT",
   "engines": {
