@@ -1,6 +1,6 @@
 <p align="center">
  <img width="100px" height="100px" src="images/graymium-vector.png" align="center" alt="Icon" />
-</p><br>
+</p>
 
 # Graymium Theme
 
