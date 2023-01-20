@@ -1,40 +1,40 @@
 {
-  "name": "graymium-vscode",
-  "displayName": "Graymium Theme",
-  "description": "Dark theme for comfort design coding. Inspired by New Moon Theme.",
-  "version": "0.0.6",
-  "publisher": "olegfedak",
-  "license": "MIT",
-  "engines": {
-    "vscode": "*"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "homepage": "https://github.com/olegfedak/graymium",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/olegfedak/graymium"
-  },
-  "icon": "images/graymium-vector.png",
-  "galleryBanner": {
-    "color": "#282828",
-    "theme": "dark"
-  },
-  "keywords": [
-    "theme",
-    "dark",
-    "graymium",
-    "frontend",
-    "design"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Graymium Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/graymium-theme.json"
-      }
-    ]
-  }
+   "name": "graymium-vscode",
+   "displayName": "Graymium Theme",
+   "description": "Dark theme for comfort design coding. Inspired by New Moon Theme.",
+   "version": "0.0.7",
+   "publisher": "olegfedak",
+   "license": "MIT",
+   "engines": {
+      "vscode": "*"
+   },
+   "categories": [
+      "Themes"
+   ],
+   "homepage": "https://github.com/olegfedak/graymium",
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/olegfedak/graymium"
+   },
+   "icon": "images/graymium-vector.png",
+   "galleryBanner": {
+      "color": "#282828",
+      "theme": "dark"
+   },
+   "keywords": [
+      "theme",
+      "dark",
+      "graymium",
+      "frontend",
+      "design"
+   ],
+   "contributes": {
+      "themes": [
+         {
+            "label": "Graymium Theme",
+            "uiTheme": "vs-dark",
+            "path": "./themes/graymium-theme.json"
+         }
+      ]
+   }
 }
