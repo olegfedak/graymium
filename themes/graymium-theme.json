@@ -52,11 +52,12 @@
       "list.inactiveSelectionBackground": "#FAFAFA10",
       "list.hoverBackground": "#FAFAFA08",
       "list.dropBackground": "#9970C290",
-      "statusBar.background": "#4E4F50",
       "statusBar.debuggingForeground": "#C6C9CD",
+      "statusBar.background": "#4E4F50",
       "statusBar.foreground": "#C6C9CD",
-      "statusBar.noFolderBackground": "#21252b",
       "statusBarItem.hoverBackground": "#25262760",
+      "statusBar.noFolderBackground": "#4E4F50",
+      "statusBar.focusBorder": "#ff000000",
       "tab.activeBackground": "#252627",
       "tab.border": "#252627",
       "tab.inactiveBackground": "#252627",
@@ -405,10 +406,5 @@
          }
       }
    ],
-   "semanticTokenColors": {
-      "newOperator": "#C586C0",
-      "stringLiteral": "#ce9178",
-      "customLiteral": "#DCDCAA",
-      "numberLiteral": "#b5cea8"
-   }
+   "colorSpaceName": "sRGB"
 }
