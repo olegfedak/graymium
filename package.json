@@ -2,7 +2,7 @@
    "name": "graymium-vscode",
    "displayName": "Graymium Theme",
    "description": "More natural gray and useful syntax highlighting for webdevs and designers.",
-   "version": "0.0.9",
+   "version": "0.1.0",
    "publisher": "olegfedak",
    "license": "MIT",
    "engines": {

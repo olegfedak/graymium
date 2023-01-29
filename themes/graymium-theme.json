@@ -29,7 +29,8 @@
       "editorLineNumber.activeForeground": "#b2b2b2",
       "editorLineNumber.foreground": "#606060",
       "editorSuggestWidget.highlightForeground": "#ffd479",
-      "editorWidget.background": "#2D2E2F",
+      "editorWidget.background": "#343536",
+      "editorWidget.border": "#FAFAFA20",
       "widget.shadow": "#1f1f1f70",
       "input.background": "#FAFAFA10",
       "inputValidation.errorBorder": "#DC2626",
@@ -95,14 +96,15 @@
       "commandCenter.background": "#C6C9CD10",
       "notifications.background": "#2D2E2F",
       "notificationCenterHeader.background": "#2D2E2F",
-      "dropdown.background": "#FAFAFA15",
+      "dropdown.background": "#3A3B3C",
       "dropdown.border": "#FAFAFA00",
-      "dropdown.listBackground": "#2D2E2F",
+      "dropdown.listBackground": "#3A3B3C",
+      "dropdown.foreground": "#C6C9CD",
       "settings.dropdownBorder": "#FAFAFA00",
-      "settings.dropdownListBorder": "#ff0000",
       "settings.focusedRowBorder": "#00000000",
       "settings.focusedRowBackground": "#2D2E2F",
-      "settings.modifiedItemIndicator": "#2367B2"
+      "settings.modifiedItemIndicator": "#2367B2",
+      "debugToolBar.background": "#343536"
    },
    "tokenColors": [
       {
