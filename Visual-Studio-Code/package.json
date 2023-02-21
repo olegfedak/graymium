@@ -16,7 +16,7 @@
       "type": "git",
       "url": "https://github.com/olegfedak/graymium"
    },
-   "icon": "images/graymium-vector.png",
+   "icon": "../images/graymium-vector.png",
    "galleryBanner": {
       "color": "#252627",
       "theme": "dark"
@@ -35,6 +35,10 @@
             "uiTheme": "vs-dark",
             "path": "./themes/graymium-theme.json"
          }
-      ]
+      ],
+      "configurationDefaults": {
+         "workbench.editor.tabSizing": "shrink",
+         "workbench.iconTheme": null
+      }
    }
 }

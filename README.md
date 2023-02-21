@@ -1,21 +1,24 @@
 <p align="center">
- <img width="100px" height="100px" src="images/graymium-vector.png" align="center" alt="Icon" />
+ <img width="100px" height="100px" src="./assets/graymium-vector.png" align="center" alt="Icon" />
 </p>
 
 # Graymium Theme
 
-Dark gray theme for web development and designing by code. If you work with `.md`, `.html`, `.css/scss`, `.njk`, `.js`,  — syntax highlighting provides. Sometimes, I add something new.
+Dark gray theme for web development and designing by code. Syntax highlighting is provided for markup, styling and scripting. Sometimes, something new is adding.
 
-## Recommendations
+## What for
+-  [Visual Studio Code](./Visual-Studio-Code/)
+-  [MacOS Terminal](./MacOS-Terminal/)
 
-* Code font-family: Menlo (by default on MacOS) or [Source Code Pro](https://github.com/adobe-fonts/source-code-pro).
+## Syntax highlighting in Editor
 
-* To make better use of [Nunjucks](https://mozilla.github.io/nunjucks/) syntax highlighting inside of Markdown, HTML etc. — try [Better Nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) extension.
-
-## References
-
-Inspired by [New Moon Theme](https://github.com/taniarascia/new-moon) and a little bit of [Logic Pro](https://www.apple.com/ua/logic-pro/) interface.
+-  JSON, YAML
+-  Markdown
+-  HTML
+-  CSS, SCSS
+-  JavaScript, TypeScript
+-  Liquid, Nunjucks
 
 ## License
 
-[MIT](LICENSE)
+This project is open source and available under the [MIT License](./LICENSE)
