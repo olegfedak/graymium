@@ -71,8 +71,14 @@
       "terminal.background": "#232425",
       "terminal.foreground": "#C9CED6",
       "terminal.findMatchBorder": "#E0BB70",
+      "terminal.ansiWhite": "#FAFAFA",
       "terminal.ansiBlack": "#666666",
-      "terminal.ansiBlue": "#80B2E8",
+      "terminal.ansiBlue": "#80B0E8",
+      "terminal.ansiCyan": "#72C4CF",
+      "terminal.ansiGreen": "#9FCF9F",
+      "terminal.ansiMagenta": "#CC97DB",
+      "terminal.ansiRed": "#F16D85",
+      "terminal.ansiYellow": "#E0BB70",
       "terminal.ansiBrightBlack": "#777777",
       "terminal.ansiBrightBlue": "#80B2E8",
       "terminal.ansiBrightCyan": "#62cfcf",
@@ -81,12 +87,6 @@
       "terminal.ansiBrightRed": "#F16D85",
       "terminal.ansiBrightWhite": "#FAFAFA",
       "terminal.ansiBrightYellow": "#E0BB70",
-      "terminal.ansiCyan": "#62cfcf",
-      "terminal.ansiGreen": "#9FCF9F",
-      "terminal.ansiMagenta": "#CC97DB",
-      "terminal.ansiRed": "#F16D85",
-      "terminal.ansiWhite": "#FAFAFA",
-      "terminal.ansiYellow": "#E0BB70",
       "titleBar.activeBackground": "#4E4F50",
       "titleBar.inactiveBackground": "#4E4F50",
       "titleBar.activeForeground": "#C9CED6",
@@ -150,7 +150,7 @@
             "entity.other.attribute-name.class.css"
          ],
          "settings": {
-            "foreground": "#E0D59D"
+            "foreground": "#E0BB70"
          }
       },
       {
@@ -270,8 +270,6 @@
             "constant.language.boolean.true.js",
             "text.html.markdown",
             "constant.language.json.comments",
-            // "constant.language.boolean.false.editorconfig",
-            // "constant.language.boolean.true.editorconfig"
             "source.editorconfig",
             "support.function.filter.liquid"
          ],
