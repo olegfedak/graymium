@@ -6,6 +6,8 @@
 
 The Graymium color scheme for MacOS Terminal
 
+![Graymium for Terminal](screenshot.png)
+
 ## Installation
 
 1. Run `curl -O https://raw.githubusercontent.com/olegfedak/graymium/main/Terminal.app/Graymium.terminal` or save the file manually
