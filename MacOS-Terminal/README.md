@@ -4,10 +4,15 @@
 
 # Graymium for Terminal.app
 
-The [Graymium](https://github.com/olegfedak/graymium) color scheme for MacOS Terminal. *On the screenshot: Shell Prompt for Zsh from [Ash Theme]()*
+The [Graymium](https://github.com/olegfedak/graymium) color scheme for MacOS Terminal.
 
-![Graymium for Terminal](./screenshot.png)
-
+<div align="center">
+   <br>
+   <img src="./screenshot.png" alt="Graymium for MacOS Terminal" width="740" />
+   <br>
+   <p><i>Shell Prompt for Zsh from <a href="">Ash Theme</a></i></p>
+   <br>
+</div>
 
 ## Installation
 
