@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" height="100px" src="graymium-icon.png" align="center" alt="Icon" />
+ <img width="100px" height="100px" src="./graymium-icon.png" align="center" alt="" />
 </p>
 
 # Graymium Theme for Visual Studio Code
@@ -13,6 +13,10 @@ Dark gray theme for web development and designing by code: markup, styling and s
 - CSS, SCSS, LESS
 - JavaScript, TypeScript (soon)
 - Liquid, Nunjucks
+
+## Installation
+
+Install from [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfedak.graymium-vscode) or do it in VSCode (`View -> Extensions` search `Graymium Theme` and install)
 
 ## Recommendations
 
