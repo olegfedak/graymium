@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" height="100px" src="../assets/graymium-vector.png" align="center" alt="Icon" />
+ <img width="100px" height="100px" src="graymium-vector.png" align="center" alt="Icon" />
 </p>
 
 # Graymium Theme for Visual Studio Code
@@ -22,7 +22,7 @@ Dark gray theme for web development and designing by code: markup, styling and s
 
 ## Author
 
-[Oleg Fedak]()
+[Oleg Fedak](https://github.com/olegfedak)
 
 ## License
 
