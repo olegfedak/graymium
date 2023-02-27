@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" height="100px" src="graymium-vector.png" align="center" alt="Icon" />
+ <img width="100px" height="100px" src="graymium-icon.png" align="center" alt="Icon" />
 </p>
 
 # Graymium Theme for Visual Studio Code
