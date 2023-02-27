@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" height="100px" src="./assets/graymium-vector.png" align="center" alt="Icon" />
+ <img width="100px" height="100px" src="./assets/graymium-vector.png" align="center" alt="" />
 </p>
 
 # Graymium Theme
