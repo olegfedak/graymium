@@ -21,4 +21,4 @@ Dark gray theme for web development and designing by code. Syntax highlighting i
 
 ## License
 
-This project is open source and available under the [MIT License](./LICENSE)
+This project is open source and available under the [MIT License](./LICENSE), created by [Oleg Fedak](https://github.com/olegfedak)
