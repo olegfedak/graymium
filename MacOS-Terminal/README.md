@@ -10,7 +10,7 @@ The [Graymium](https://github.com/olegfedak/graymium) color scheme for MacOS Ter
    <br>
    <img src="./screenshot.png" alt="Graymium for MacOS Terminal" width="740" />
    <br>
-   <p><i>Shell Prompt for Zsh from <a href="">Ash Theme</a></i></p>
+   <p><i>Shell Prompt for Zsh from <a href="https://github.com/olegfedak/ash">Ash Theme</a></i></p>
    <br>
 </div>
 
