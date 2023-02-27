@@ -2,7 +2,7 @@
    "name": "graymium-vscode",
    "displayName": "Graymium Theme",
    "description": "More natural gray and useful syntax highlighting for webdevs and designers.",
-   "version": "0.1.7",
+   "version": "0.1.9",
    "publisher": "olegfedak",
    "license": "MIT",
    "engines": {
@@ -14,9 +14,9 @@
    "homepage": "https://github.com/olegfedak/graymium",
    "repository": {
       "type": "git",
-      "url": "https://github.com/olegfedak/graymium"
+      "url": "https://github.com/olegfedak/graymium/tree/main/Visual-Studio-Code"
    },
-   "icon": "graymium-icon.png",
+   "icon": "./assets/graymium-icon.png",
    "galleryBanner": {
       "color": "#252627",
       "theme": "dark"
