@@ -14,17 +14,16 @@ The [Graymium](https://github.com/olegfedak/graymium) color scheme for MacOS Ter
    <br>
 </div>
 
-## Installation
+## Setup
 
-1. Run `curl -O https://raw.githubusercontent.com/olegfedak/graymium/main/Terminal.app/Graymium.terminal` or save the file manually
+1. Run `curl -O https://raw.githubusercontent.com/olegfedak/graymium/main/MacOS-Terminal/Graymium.terminal`  
+   or [save the file manually](https://raw.githubusercontent.com/olegfedak/graymium/main/MacOS-Terminal/Graymium.terminal) as "Graymium.terminal"
 
-2. Open
-`./Graymium.terminal`
+2. Open `Graymium.terminal`
 
 3. Open Terminal preferences (<kbd>cmd</kbd> + <kbd>,</kbd>)
 
 4. Go to Profiles and select `Graymium`
-
 
 ## License
 
