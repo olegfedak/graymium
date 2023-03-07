@@ -6,6 +6,8 @@
 
 Dark gray theme for web development and designing by code. Syntax highlighting is provided for markup, styling and scripting. Sometimes, something new is adding.
 
+![](./assets/graymium-cover.png)
+
 ## What for
 -  [Visual Studio Code](./Visual-Studio-Code/)
 -  [MacOS Terminal](./MacOS-Terminal/)
