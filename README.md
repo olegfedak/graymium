@@ -8,7 +8,7 @@ Dark gray theme for web development and designing by code. Syntax highlighting i
 
 ![](./assets/graymium-cover.png)
 
-## What for
+## Platforms
 -  [Visual Studio Code](./Visual-Studio-Code/)
 -  [MacOS Terminal](./MacOS-Terminal/)
 
