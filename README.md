@@ -2,9 +2,9 @@
  <img width="100px" height="100px" src="./assets/graymium-icon.png" align="center" alt="" />
 </p>
 
-# Graymium Theme
+# Graymium
 
-Dark gray theme for web development and designing by code. Syntax highlighting is provided for markup, styling and scripting. Sometimes, something new is adding.
+The dark gray theme for web development and designing by code. Syntax highlighting is provided for markup, styling and scripting. This theme is optimised to be minimalistic and easy on the eyes for long coding hours.
 
 ![](./assets/graymium-cover.png)
 
@@ -20,6 +20,10 @@ Dark gray theme for web development and designing by code. Syntax highlighting i
 -  CSS, SCSS
 -  JavaScript, TypeScript
 -  Liquid, Nunjucks
+
+## Feedback
+
+If you have suggestions, please [open an issue](https://github.com/olegfedak/graymium/issues) or better yet, a [pull request](https://github.com/olegfedak/graymium/pulls).
 
 ## License
 

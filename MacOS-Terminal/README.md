@@ -16,7 +16,7 @@ The [Graymium](https://github.com/olegfedak/graymium) color scheme for MacOS Ter
 
 ## Setup
 
-1. Run `curl -O https://raw.githubusercontent.com/olegfedak/graymium/main/MacOS-Terminal/Graymium.terminal`  
+1. Run `curl -O https://raw.githubusercontent.com/olegfedak/graymium/main/MacOS-Terminal/Graymium.terminal`
    or [save the file manually](https://raw.githubusercontent.com/olegfedak/graymium/main/MacOS-Terminal/Graymium.terminal) as "Graymium.terminal"
 
 2. Open `Graymium.terminal`

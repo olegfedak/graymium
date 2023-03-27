@@ -63,7 +63,8 @@
       "tab.border": "#252627",
       "tab.inactiveBackground": "#252627",
       "tab.inactiveForeground": "#C9CED690",
-      "breadcrumb.background": "#FAFAFA10",
+      "breadcrumb.background": "#2D2E2F",
+      "breadcrumb.foreground": "#C9CED690",
       "panel.background": "#232425",
       "panel.border": "#FAFAFA20",
       "panelTitle.activeBorder": "#ff000000",
@@ -214,7 +215,17 @@
          "scope": [
             "punctuation.terminator",
             "punctuation.output.liquid",
-            "meta.paragraph.markdown"
+            "meta.paragraph.markdown",
+            "variable.other.liquid",
+            "variable.other.member.liquid",
+            "variable.language.liquid",
+            "variable.other.njk",
+            "support.class.njk",
+            "support.variable.njk",
+            "variable.parameter.njk",
+            "string.unquoted.tag-string.nunjucks",
+            "support.class.liquid",
+            "support.variable.liquid"
          ],
          "settings": {
             "foreground": "#C9CED6"
@@ -250,6 +261,15 @@
             "meta.embedded.block.liquid",
             "punctuation.definition.tag.begin.liquid",
             "punctuation.definition.tag.end.liquid",
+            "punctuation.definition.tag.begin.njk",
+            "punctuation.definition.tag.end.njk",
+            "punctuation.output.njk",
+            "punctuation.output.liquid",
+            "punctuation.tag.njk",
+            "punctuation.tag.liquid",
+            "keyword.operator.njk",
+            "keyword.operator.nunjucks",
+            "keyword.operator.liquid",
             "keyword.other.dot.liquid",
             "keyword.operator.logical.liquid",
             "entity.name.tag.variable.liquid",
@@ -271,7 +291,18 @@
             "text.html.markdown",
             "constant.language.json.comments",
             "source.editorconfig",
-            "support.function.filter.liquid"
+            "support.function.filter.liquid",
+            "entity.name.tag.liquid",
+            "entity.name.tag.njk",
+            "support.function.liquid",
+            "meta.entity.tag.liquid",
+            "punctuation.accessor.liquid",
+            "keyword.operator.expression.liquid",
+            "entity.other.njk.delimiter.tag",
+            "entity.other.njk.delimiter.variable",
+            "punctuation.other.njk",
+            "entity.tag.tagbraces.nunjucks",
+            "string.unquoted.filter-pipe.nunjucks"
          ],
          "settings": {
             "foreground": "#CC97DB"

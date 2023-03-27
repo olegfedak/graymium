@@ -1,32 +1,37 @@
 {
    "name": "graymium-vscode",
    "displayName": "Graymium Theme",
-   "description": "More natural gray and useful syntax highlighting for webdevs and designers.",
-   "version": "0.1.9",
+   "description": "More natural gray, syntax highlighting for web developers, coders and designers.",
+   "version": "0.2.0",
    "publisher": "olegfedak",
    "license": "MIT",
+   "icon": "assets/graymium-icon.png",
+   "galleryBanner": {
+      "color": "#252627",
+      "theme": "dark"
+   },
+   "repository": {
+      "type": "git",
+      "url": "https://github.com/olegfedak/graymium"
+   },
+   "bugs": {
+      "url": "https://github.com/olegfedak/graymium/issues",
+      "email": "olegfedak@gmail.com"
+   },
    "engines": {
       "vscode": "*"
    },
    "categories": [
       "Themes"
    ],
-   "homepage": "https://github.com/olegfedak/graymium",
-   "repository": {
-      "type": "git",
-      "url": "https://github.com/olegfedak/graymium/tree/main/Visual-Studio-Code"
-   },
-   "icon": "./assets/graymium-icon.png",
-   "galleryBanner": {
-      "color": "#252627",
-      "theme": "dark"
-   },
    "keywords": [
       "theme",
       "dark",
       "graymium",
       "frontend",
-      "design"
+      "design",
+      "vscode",
+      "highlighting"
    ],
    "contributes": {
       "themes": [
@@ -37,8 +42,53 @@
          }
       ],
       "configurationDefaults": {
-         "workbench.editor.tabSizing": "shrink",
-         "workbench.iconTheme": null
+         "workbench.colorTheme": "Graymium Theme",
+         "workbench.editor.tabSizing": "fit",
+         "workbench.iconTheme": null,
+         "workbench.tree.indent": 14,
+         "workbench.tree.renderIndentGuides": "none",
+         "workbench.editor.decorations.colors": false,
+         "explorer.compactFolders": false,
+         "explorer.decorations.colors": false,
+         "editor.autoIndent": "brackets",
+         "editor.bracketPairColorization.enabled": false,
+         "editor.linkedEditing": true,
+         "editor.formatOnPaste": true,
+         "editor.formatOnSave": true,
+         "editor.formatOnType": false,
+         "editor.fontFamily": "Menlo, SF Mono",
+         "editor.fontSize": 12,
+         "editor.lineHeight": 1.5,
+         "editor.fontWeight": "500",
+         "editor.cursorBlinking": "phase",
+         "editor.cursorStyle": "line",
+         "editor.guides.indentation": false,
+         "editor.minimap.size": "fit",
+         "editor.minimap.enabled": false,
+         "terminal.integrated.lineHeight": 1.2,
+         "terminal.integrated.shellIntegration.decorationsEnabled": "never",
+         "files.trimTrailingWhitespace": true,
+         "files.trimFinalNewlines": true,
+         "files.associations": {
+            "*.njk": "nunjucks",
+            "*.liquid": "liquid"
+         },
+         "window.commandCenter": false,
+         "workbench.layoutControl.enabled": false,
+         "breadcrumbs.enabled": false,
+         "scm.repositories.visible": 0,
+         "scm.showActionButton": false,
+         "scm.alwaysShowActions": false,
+         "scm.diffDecorationsGutterVisibility": "hover",
+         "explorer.confirmDragAndDrop": false,
+         "explorer.incrementalNaming": "smart",
+         "explorer.confirmDelete": false,
+         "html.format.enable": true,
+         "html.format.extraLiners": "body",
+         "html.format.maxPreserveNewLines": 1,
+         "[liquid]": {
+            "editor.defaultFormatter": "vscode.html-language-features"
+         }
       }
    }
 }
