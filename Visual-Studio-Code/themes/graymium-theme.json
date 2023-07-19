@@ -78,16 +78,16 @@
       "terminal.ansiCyan": "#72C4CF",
       "terminal.ansiGreen": "#9FCF9F",
       "terminal.ansiMagenta": "#CC97DB",
-      "terminal.ansiRed": "#F16D85",
-      "terminal.ansiYellow": "#E0BB70",
+      "terminal.ansiRed": "#E8808C",
+      "terminal.ansiYellow": "#E4C586",
       "terminal.ansiBrightBlack": "#777777",
       "terminal.ansiBrightBlue": "#80B2E8",
       "terminal.ansiBrightCyan": "#62cfcf",
       "terminal.ansiBrightGreen": "#9FCF9F",
       "terminal.ansiBrightMagenta": "#CC97DB",
-      "terminal.ansiBrightRed": "#F16D85",
+      "terminal.ansiBrightRed": "#E8808C",
       "terminal.ansiBrightWhite": "#FAFAFA",
-      "terminal.ansiBrightYellow": "#E0BB70",
+      "terminal.ansiBrightYellow": "#E4C586",
       "titleBar.activeBackground": "#4E4F50",
       "titleBar.inactiveBackground": "#4E4F50",
       "titleBar.activeForeground": "#C9CED6",
@@ -112,14 +112,15 @@
          "scope": [
             "string",
             "string.other.link",
-            "string.other.link.title.markdown",
             "constant.other.symbol",
             "entity.other.inherited-class",
             "markup.underline.link.image.markdown",
             "markup.raw.inline",
             "markup.inserted",
             "markup.inserted.git_gutter",
-            "variable.parameter.url.scss"
+            "variable.parameter.url.scss",
+            "support.constant.vendored.property-value.css",
+            "meta.attribute-selector.scss"
          ],
          "settings": {
             "foreground": "#9FCF9F"
@@ -136,9 +137,12 @@
             "storage",
             "keyword.operator.expression.typeof",
             "keyword.operator.expression.import.js",
-            "markup.inline.raw.string.markdown",
             "entity.name.tag.variable.liquid",
-            "variable.language.this.js"
+            "variable.language.this.js",
+            "punctuation.definition.binding-pattern.object.js",
+            "punctuation.definition.bracket.curly.begin.jsdoc",
+            "punctuation.definition.bracket.curly.end.jsdoc",
+            "storage.type.class.jsdoc"
          ],
          "settings": {
             "foreground": "#A99DEB"
@@ -148,20 +152,57 @@
          "scope": [
             "entity.name.section",
             "markup.heading",
-            "entity.other.attribute-name.class.css"
+            "entity.name.tag.wildcard.css",
+            "keyword.other.unit",
+            "entity.name.tag.wildcard.scss",
+            "entity.other.attribute-name.css",
+            "entity.other.attribute-name.id.css",
+            "entity.other.attribute-name.attribute.scss",
+            "entity.other.attribute-name.class.css",
+            "punctuation.definition.raw.markdown",
+            "punctuation.definition.markdown",
+            "fenced_code.block.language",
+            "punctuation.definition.quote.begin.markdown"
          ],
          "settings": {
-            "foreground": "#E0BB70"
+            "foreground": "#E4C586"
          }
       },
       {
          "scope": [
             "meta.tag",
             "entity.name.function.graphql",
-            "entity.name.function.js"
+            "entity.name.function.js",
+            "entity.name.function.scss",
+            "support.function.transform.css",
+            "support.function.url.css",
+            "support.function.misc.css",
+            "support.function.misc.scss",
+            "support.function.calc.css",
+            "entity.name.function.shell",
+            "entity.name.tag.css",
+            "punctuation.definition.heading.markdown",
+            "punctuation.definition.bold.markdown",
+            "punctuation.definition.list.begin.markdown",
+            "entity.name.section.markdown",
+            "punctuation.definition.markdown",
+            "punctuation.definition.dictionary.begin.json",
+            "punctuation.definition.dictionary.end.json",
+            "punctuation.definition.italic.markdown",
+            "punctuation.definition.quote.begin.markdown",
+            "string.other.link.title.markdown",
+            "punctuation.definition.link.description.begin.markdown",
+            "punctuation.definition.link.description.end.markdown",
+            "punctuation.definition.strikethrough.markdown",
+            "punctuation.definition.link.markdown",
+            "meta.link.inet.markdown",
+            "meta.link.email.lt-gt.markdown",
+            "punctuation.definition.link.title.begin.markdown",
+            "punctuation.definition.link.title.end.markdown",
+            "meta.separator.markdown"
          ],
          "settings": {
-            "foreground": "#80B2E8"
+            "foreground": "#80B0E8"
          }
       },
       {
@@ -175,7 +216,12 @@
             "punctuation.support.type.property-name.begin.json",
             "punctuation.support.type.property-name.end.json",
             "punctuation.definition.metadata.markdown",
-            "markup.underline.link.markdown"
+            "keyword.operator.scss",
+            "keyword.operator.pattern.css",
+            "punctuation.definition.interpolation.begin.bracket.curly.scss",
+            "punctuation.definition.interpolation.end.bracket.curly.scss",
+            "markup.underline.link.image.markdown",
+            "meta.link.reference.def.markdown"
          ],
          "settings": {
             "foreground": "#7A8085"
@@ -185,7 +231,9 @@
          "scope": [
             "constant.numeric",
             "keyword.other.unit",
-            "markup.quote"
+            "constant.other.reference.link.markdown",
+            "punctuation.definition.constant.markdown",
+            "meta.link.reference.markdown"
          ],
          "settings": {
             "foreground": "#EB9F6C"
@@ -194,38 +242,71 @@
       {
          "scope": [
             "meta.separator",
-            "meta.parameters",
-            "keyword.operator",
             "entity.name.tag.reference",
             "support.variable.property.dom.js",
             "support.type.property-name.json",
             "variable.graphql",
-            "variable.other.readwrite.js",
             "meta.object-literal.key.js",
             "keyword.other.definition",
             "entity.name.type.instance.jsdoc",
             "entity.name.tag.yaml",
-            "meta.tag.metadata.doctype.html"
+            "meta.tag.metadata.doctype.html",
+            "support.type.property-name.css",
+            "punctuation.terminator",
+            "variable.parameter.js",
+            "support.variable.property.js",
+            "punctuation.accessor.js",
+            "entity.other.attribute-name.pseudo-class.css",
+            "entity.other.attribute-name.pseudo-element.css",
+            "support.type.property-name.media.css",
+            "punctuation.section.function.begin.bracket.round.css",
+            "punctuation.section.function.end.bracket.round.css",
+            "meta.brace.round.js",
+            "punctuation.definition.parameters.begin.js",
+            "punctuation.definition.parameters.end.js",
+            "punctuation.section.function.scss",
+            "punctuation.definition.begin.bracket.round.scss",
+            "punctuation.definition.end.bracket.round.scss",
+            "punctuation.definition.parameters.begin.bracket.round.css",
+            "punctuation.definition.parameters.end.bracket.round.css",
+            "punctuation.definition.block.js",
+            "punctuation.definition.parameters.begin.bracket.round.scss",
+            "punctuation.definition.parameters.end.bracket.round.scss",
+            "keyword.operator.combinator.css",
+            "markup.fenced_code.block.markdown",
+            "markup.underline.link.image.markdown",
+            "meta.link.reference.def.markdown",
+            "meta.link.inline.markdown",
+            "markup.fenced_code.block.markdown"
          ],
          "settings": {
-            "foreground": "#ABB2BF"
+            "foreground": "#A5ADBB"
          }
       },
       {
          "scope": [
-            "punctuation.terminator",
-            "punctuation.output.liquid",
             "meta.paragraph.markdown",
             "variable.other.liquid",
             "variable.other.member.liquid",
             "variable.language.liquid",
+            "punctuation.output.liquid",
             "variable.other.njk",
             "support.class.njk",
             "support.variable.njk",
             "variable.parameter.njk",
             "string.unquoted.tag-string.nunjucks",
             "support.class.liquid",
-            "support.variable.liquid"
+            "support.variable.liquid",
+            "constant.other.color.rgb-value.hex.css",
+            "punctuation.definition.attribute-selector.begin.bracket.square.scss",
+            "punctuation.definition.attribute-selector.end.bracket.square.scss",
+            "entity.other.attribute-name.attribute.scss",
+            "support.constant.color.w3c-standard-color-name.css",
+            "fenced_code.block.language",
+            "markup.italic.markdown",
+            "string.unquoted.plain.out.yaml",
+            "string.other.link.description.markdown",
+            "entity.name.section.markdown"
          ],
          "settings": {
             "foreground": "#C9CED6"
@@ -233,7 +314,9 @@
       },
       {
          "scope": [
-            "support.type.object.module.js"
+            "support.type.object.module.js",
+            "constant.other.reference.link.markdown",
+            "punctuation.definition.constant.markdown"
          ],
          "settings": {
             "foreground": "#72C4CF"
@@ -244,12 +327,21 @@
             "entity.name.type.class.js"
          ],
          "settings": {
-            "foreground": "#E0D59D"
+            "foreground": "#DFD49E"
          }
       },
       {
          "scope": [
-            "invalid.illegal"
+            "keyword.other.important.css"
+         ],
+         "settings": {
+            "foreground": "#F396BF"
+         }
+      },
+      {
+         "scope": [
+            "invalid.illegal",
+            "keyword.other.important.css"
          ],
          "settings": {
             "foreground": "#E8808C"
@@ -264,7 +356,6 @@
             "punctuation.definition.tag.begin.njk",
             "punctuation.definition.tag.end.njk",
             "punctuation.output.njk",
-            "punctuation.output.liquid",
             "punctuation.tag.njk",
             "punctuation.tag.liquid",
             "keyword.operator.njk",
@@ -280,15 +371,8 @@
             "entity.name.tag.other.liquid",
             "keyword.operator.assignment.augmented.liquid",
             "keyword.operator.equality.liquid",
-            "keyword.operator.expression.delete.js",
-            "variable.language.this.js",
-            "keyword.operator.logical.js",
-            "keyword.operator.comparison.js",
-            "keyword.operator.relational.js",
-            "keyword.operator.new.js",
             "constant.language.undefined.js",
             "constant.language.boolean.true.js",
-            "text.html.markdown",
             "constant.language.json.comments",
             "source.editorconfig",
             "support.function.filter.liquid",
@@ -302,7 +386,27 @@
             "entity.other.njk.delimiter.variable",
             "punctuation.other.njk",
             "entity.tag.tagbraces.nunjucks",
-            "string.unquoted.filter-pipe.nunjucks"
+            "string.unquoted.filter-pipe.nunjucks",
+            "constant.language.boolean.false.js",
+            "punctuation.definition.block.js",
+            "constant.language.json",
+            "punctuation.section.media.begin.bracket.curly.css",
+            "punctuation.section.media.end.bracket.curly.css",
+            "punctuation.accessor.js",
+            "punctuation.section.keyframes.begin.bracket.curly.css",
+            "punctuation.section.keyframes.end.bracket.curly.css",
+            "punctuation.section.property-list.begin.bracket.curly.css",
+            "punctuation.section.property-list.end.bracket.curly.css",
+            "punctuation.section.property-list.begin.bracket.curly.scss",
+            "punctuation.section.property-list.end.bracket.curly.scss",
+            "punctuation.section.layer.begin.bracket.curly.tailwind",
+            "punctuation.section.layer.end.bracket.curly.tailwind",
+            "constant.language.null.js",
+            "punctuation.definition.group.shell",
+            "meta.structure.dictionary.json.comments",
+            "meta.array.literal.js",
+            "punctuation.definition.dictionary.begin.json",
+            "punctuation.definition.dictionary.end.json"
          ],
          "settings": {
             "foreground": "#CC97DB"

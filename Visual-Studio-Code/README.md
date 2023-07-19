@@ -7,7 +7,7 @@
 
 The dark gray theme for web development and designing by code. Syntax highlighting is provided for markup, styling and scripting. This theme is optimised to be minimalistic and easy on the eyes for long coding hours.
 
-> ☝ In addition to colors, certain interface settings will be also changed. See "configuration defaults" below.
+> ☝ In addition to colors, certain interface settings is also changed. See "configuration defaults" below.
 
 ## Syntax highlighting
 
@@ -63,12 +63,6 @@ Go to [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfeda
       "*.njk": "nunjucks",
       "*.liquid": "liquid"
    },
-   "html.format.enable": true,
-   "html.format.extraLiners": "body",
-   "html.format.maxPreserveNewLines": 1,
-   "[liquid]": {
-      "editor.defaultFormatter": "vscode.html-language-features"
-   }
    "window.commandCenter": false,
    "workbench.layoutControl.enabled": false,
    "breadcrumbs.enabled": false,
@@ -78,9 +72,19 @@ Go to [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfeda
    "scm.diffDecorationsGutterVisibility": "hover",
    "explorer.confirmDragAndDrop": false,
    "explorer.incrementalNaming": "smart",
-   "explorer.confirmDelete": false
+   "explorer.confirmDelete": false,
+   "html.format.enable": true,
+   "html.format.extraLiners": "body",
+   "html.format.maxPreserveNewLines": 1,
+   "[liquid]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+   },
+   "css.format.spaceAroundSelectorSeparator": true,
+   "scss.format.spaceAroundSelectorSeparator": true,
+   "less.format.spaceAroundSelectorSeparator": true
 }
 ```
+
 </details>
 <br>
 
@@ -88,7 +92,9 @@ Go to [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfeda
 
 * Code fonts: Menlo (by default on MacOS), or [SF Mono](https://github.com/supercomputra/SF-Mono-Font).
 
-* To make better use of [Nunjucks](https://mozilla.github.io/nunjucks/) syntax highlighting inside of Markdown, HTML etc. — try [Better Nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) extension. But it's not necessary.
+* For Terminal prompts try [Ash Theme](https://github.com/olegfedak/ash) (works in zsh using oh-my-zsh).
+
+* To make better use of [Nunjucks](https://mozilla.github.io/nunjucks/) syntax highlighting inside of Markdown, HTML etc. — try [Better Nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) extension.
 
 * Working with Liquid try [this Liquid VSCode extension](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid). (Supports Formatting, Syntax Highlighting, Snippets, HTML IntelliSense and other essential features).
 
