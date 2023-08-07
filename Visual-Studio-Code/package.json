@@ -2,7 +2,7 @@
    "name": "graymium-vscode",
    "displayName": "Graymium Theme",
    "description": "More natural gray, syntax highlighting for web developers, coders and designers.",
-   "version": "0.2.1",
+   "version": "0.2.2",
    "publisher": "olegfedak",
    "license": "MIT",
    "icon": "assets/graymium-icon.png",
@@ -86,6 +86,8 @@
          "html.format.enable": true,
          "html.format.extraLiners": "body",
          "html.format.maxPreserveNewLines": 1,
+         "html.format.wrapLineLength": 0,
+         "html.format.indentInnerHtml": true,
          "[liquid]": {
             "editor.defaultFormatter": "vscode.html-language-features"
          },

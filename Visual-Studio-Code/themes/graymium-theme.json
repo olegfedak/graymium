@@ -123,7 +123,7 @@
             "meta.attribute-selector.scss"
          ],
          "settings": {
-            "foreground": "#9FCF9F"
+            "foreground": "#99D1AC"
          }
       },
       {
@@ -173,6 +173,7 @@
             "meta.tag",
             "entity.name.function.graphql",
             "entity.name.function.js",
+            "entity.name.function.ts",
             "entity.name.function.scss",
             "support.function.transform.css",
             "support.function.url.css",
@@ -199,7 +200,14 @@
             "meta.link.email.lt-gt.markdown",
             "punctuation.definition.link.title.begin.markdown",
             "punctuation.definition.link.title.end.markdown",
-            "meta.separator.markdown"
+            "meta.separator.markdown",
+            "entity.name.tag.template.html.vue",
+            "entity.name.tag.script.html.vue",
+            "entity.name.tag.style.html.vue",
+            "punctuation.definition.tag.begin.html.vue",
+            "punctuation.definition.tag.end.html.vue",
+            "entity.name.section.markdown",
+            "meta.tag-stuff"
          ],
          "settings": {
             "foreground": "#80B0E8"
@@ -277,7 +285,12 @@
             "markup.underline.link.image.markdown",
             "meta.link.reference.def.markdown",
             "meta.link.inline.markdown",
-            "markup.fenced_code.block.markdown"
+            "markup.fenced_code.block.markdown",
+            "meta.tag-stuff",
+            "meta.brace.round.ts",
+            "entity.name.label.ts",
+            "meta.object-literal.key.ts",
+            "entity.other.attribute-name.html.vue"
          ],
          "settings": {
             "foreground": "#A5ADBB"
@@ -306,7 +319,11 @@
             "markup.italic.markdown",
             "string.unquoted.plain.out.yaml",
             "string.other.link.description.markdown",
-            "entity.name.section.markdown"
+            "entity.name.section.markdown",
+            "variable.other.object.ts",
+            "variable.other.property.ts",
+            "variable.other.readwrite.ts",
+            "meta.attribute.directive.vue"
          ],
          "settings": {
             "foreground": "#C9CED6"
@@ -406,7 +423,14 @@
             "meta.structure.dictionary.json.comments",
             "meta.array.literal.js",
             "punctuation.definition.dictionary.begin.json",
-            "punctuation.definition.dictionary.end.json"
+            "punctuation.definition.dictionary.end.json",
+            "punctuation.definition.interpolation.begin.html.vue",
+            "punctuation.definition.interpolation.end.html.vue",
+            "punctuation.attribute-shorthand.event.html.vue",
+            "punctuation.definition.block.ts",
+            "punctuation.accessor.ts",
+            "punctuation.attribute-shorthand.bind.html.vue",
+            "entity.other.attribute-name.html.vue"
          ],
          "settings": {
             "foreground": "#CC97DB"
