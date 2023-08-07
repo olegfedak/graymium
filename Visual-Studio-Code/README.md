@@ -17,6 +17,7 @@ The dark gray theme for web development and designing by code. Syntax highlighti
 - CSS, SCSS
 - JavaScript, TypeScript
 - Liquid, Nunjucks
+- Vue
 
 ## Install
 
