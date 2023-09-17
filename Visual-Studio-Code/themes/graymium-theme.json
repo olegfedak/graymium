@@ -430,7 +430,15 @@
             "punctuation.definition.block.ts",
             "punctuation.accessor.ts",
             "punctuation.attribute-shorthand.bind.html.vue",
-            "entity.other.attribute-name.html.vue"
+            "entity.other.attribute-name.html.vue",
+            "punctuation.definition.block.sequence.item.yaml",
+            "constant.language.boolean.yaml",
+            "punctuation.definition.mapping.begin.yaml",
+            "punctuation.definition.mapping.end.yaml",
+            "punctuation.definition.sequence.begin.yaml",
+            "punctuation.definition.sequence.end.yaml",
+            "punctuation.definition.array.begin.json",
+            "punctuation.definition.array.end.json"
          ],
          "settings": {
             "foreground": "#CC97DB"
