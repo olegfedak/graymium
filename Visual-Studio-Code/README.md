@@ -1,4 +1,4 @@
-![](./assets/graymium-cover.png)
+![ ](./assets/graymium-cover.png)
 <!-- <p align="center">
  <img width="100px" height="100px" src="./assets/graymium-icon.png" align="center" alt="" />
 </p> -->
@@ -22,6 +22,7 @@ The dark gray theme for web development and designing by code. Syntax highlighti
 ## Install
 
 Go to [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfedak.graymium-vscode) and click on the "install" button or do it in VSCode:
+
 1. Go to `View -> Extensions`
 2. Search for `Graymium Theme`
 3. Click on Install
@@ -87,17 +88,17 @@ Go to [Marketplace](https://marketplace.visualstudio.com/items?itemName=olegfeda
 ```
 
 </details>
-<br>
+</br>
 
 ## Recommendations
 
-* Code fonts: Menlo (by default on MacOS), or [SF Mono](https://github.com/supercomputra/SF-Mono-Font).
+- Code fonts: Menlo (by default on MacOS), or [SF Mono](https://github.com/supercomputra/SF-Mono-Font).
 
-* For Terminal prompts try [Ash Theme](https://github.com/olegfedak/ash) (works in zsh using oh-my-zsh).
+- For Terminal prompts try [Ash Theme](https://github.com/olegfedak/ash) (works in zsh using oh-my-zsh).
 
-* To make better use of [Nunjucks](https://mozilla.github.io/nunjucks/) syntax highlighting inside of Markdown, HTML etc. — try [Better Nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) extension.
+- To make better use of [Nunjucks](https://mozilla.github.io/nunjucks/) syntax highlighting inside of Markdown, HTML etc. — try [Better Nunjucks](https://marketplace.visualstudio.com/items?itemName=ginfuru.better-nunjucks) extension.
 
-* Working with Liquid try [this Liquid VSCode extension](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid). (Supports Formatting, Syntax Highlighting, Snippets, HTML IntelliSense and other essential features).
+- Working with Liquid try [this Liquid VSCode extension](https://marketplace.visualstudio.com/items?itemName=sissel.shopify-liquid). (Supports Formatting, Syntax Highlighting, Snippets, HTML IntelliSense and other essential features).
 
 ## Feedback
 
