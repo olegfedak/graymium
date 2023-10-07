@@ -207,7 +207,8 @@
             "punctuation.definition.tag.begin.html.vue",
             "punctuation.definition.tag.end.html.vue",
             "entity.name.section.markdown",
-            "meta.tag-stuff"
+            "meta.tag-stuff",
+            "invalid.illegal.unrecognized-tag.html"
          ],
          "settings": {
             "foreground": "#80B0E8"
