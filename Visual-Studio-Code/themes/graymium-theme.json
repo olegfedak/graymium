@@ -55,7 +55,7 @@
       "list.dropBackground": "#9970C290",
       "statusBar.debuggingForeground": "#C9CED6",
       "statusBar.debuggingBackground": "#734181",
-      "statusBar.background": "#734181",
+      "statusBar.background": "#4E4F50",
       "statusBar.foreground": "#C9CED6",
       "statusBarItem.remoteBackground": "#734181",
       "statusBarItem.hoverBackground": "#25262760",
