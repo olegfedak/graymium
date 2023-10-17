@@ -439,7 +439,8 @@
             "punctuation.definition.sequence.begin.yaml",
             "punctuation.definition.sequence.end.yaml",
             "punctuation.definition.array.begin.json",
-            "punctuation.definition.array.end.json"
+            "punctuation.definition.array.end.json",
+            "entity.other.document.begin.yaml"
          ],
          "settings": {
             "foreground": "#CC97DB"
