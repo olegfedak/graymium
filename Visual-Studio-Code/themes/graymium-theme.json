@@ -371,6 +371,7 @@
          "scope": [
             "keyword",
             "meta.embedded.block.liquid",
+            "meta.embedded.block.frontmatter.njk",
             "punctuation.definition.tag.begin.liquid",
             "punctuation.definition.tag.end.liquid",
             "punctuation.definition.tag.begin.njk",
